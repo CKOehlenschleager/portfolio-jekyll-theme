@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Christoffer Øhlenschlæger's Portfolio
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+My name is Christoffer and I'm currently a PhD-student at University of Copenhagen. In both my Bachelor's and my Master's I studied Mathematics-Economics, and both of them are obtain from University of Copenhagen. 
+
+I have a general interest in data, information and statistics. 
+
+I'm born and raised in Denmark and currently I enjoy running. 
