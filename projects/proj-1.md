@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Project One'
+title: 'About Me'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+My name is Christoffer, and I am currently a PhD student at the University of Copenhagen. I completed both my Bachelor’s and Master’s degrees in Mathematics-Economics at the same university.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+I have a broad interest in data, information, and statistics, with a particular focus on rare events and how to model them—for example, financial crises or natural catastrophes. I am also motivated by contributing to something meaningful, so it is important to me that my projects have a real impact. While I am still unsure whether I want to continue in academia, I know for certain that I want to keep working with data.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+I was born and raised in Denmark, and I currently enjoy running in my free time.
